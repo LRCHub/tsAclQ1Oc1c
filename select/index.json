@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "駄菓子屋商売",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-02-06T07:23:26.845048Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "駄菓子屋商売",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/01_駄菓子屋商売_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "駄菓子屋商売",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/02_駄菓子屋商売_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "駄菓子屋商売",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/03_駄菓子屋商売_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "駄菓子屋商売",
+      "artist": "米津玄师",
+      "has_synced": true,
+      "path": "select/04_駄菓子屋商売_米津玄师.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "駄菓子屋商売",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_駄菓子屋商売_米津玄師.txt"
+    }
+  ]
+}
